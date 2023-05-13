@@ -28,7 +28,7 @@ const factorial = function(a) {
   }
   return contador
 };
-console.log(factorial(5))
+
 
 // Do not edit below this line
 module.exports = {
